@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/dynamicaug/__init__.py
+src/dynamicaug/_functional_pil.py
+src/dynamicaug/_functional_tensor.py
+src/dynamicaug/_utils.py
+src/dynamicaug/functional.py
+src/dynamicaug/transforms.py
+src/dynamicaug.egg-info/PKG-INFO
+src/dynamicaug.egg-info/SOURCES.txt
+src/dynamicaug.egg-info/dependency_links.txt
+src/dynamicaug.egg-info/top_level.txt
